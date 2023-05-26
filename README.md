@@ -1,4 +1,4 @@
-# 📦 Streamlit App Starter Kit 
+# 📦 Gen AI App Template
 ```
 ⬆️ (Replace above with your app's name)
 ```
